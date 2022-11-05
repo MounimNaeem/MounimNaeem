@@ -2,13 +2,13 @@
 A Flutter Developer and Android Developer with 2+ years of demonstrable experience in building apps from the very beginning using Firebase, APIs integration, Authentication, and Unit testing, able to work independently in busy environments and also within a team setting.
 
 ## I have deep knowledge of 
-● Directs apps design and development 
-● Writing clean, readable, and testable code
-● APIs Integration, FlutterFire. 
-● Payment Gateway Integration. 
-● Global State Management using Provider/Bloc 
-● Apps Development Using MVVM Architecture pattern
-● Object Oriented Programming
+- Directs apps design and development 
+- Writing clean, readable, and testable code
+- APIs Integration, FlutterFire. 
+- Payment Gateway Integration. 
+- Global State Management using Provider/Bloc 
+- Apps Development Using MVVM Architecture pattern
+- Object Oriented Programming
 
 Skills: Flutter / Dart / Java / Android / Firebase / Database
 
